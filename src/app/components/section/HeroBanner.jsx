@@ -57,7 +57,7 @@ export default function Home() {
                     <div className="max-w-[510px] w-full bg-white border-r border-l border-gray-200">
                         <div className="main-bar">
                             <div className="top-bar p-4 flex justify-between items-center">
-                                <h2 className="font-bold text-[20px] text-[#219F94]">ChatNeko</h2>
+                                <h2 className="font-bold text-[20px] text-black">ChatNeko</h2>
                                 <div>
                                     <span className="inline-block mr-4 p-[5px] hover:bg-gray-200 rounded-[50%]">
                                         <svg viewBox="0 0 24 24" height="24" width="24" preserveAspectRatio="xMidYMid meet" classna="" fill="none">
